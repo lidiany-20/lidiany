@@ -1,0 +1,1 @@
+Achando o curso interessante, porém para iniciantes em GIT falta um guia ou passo a passo mais explicativo
